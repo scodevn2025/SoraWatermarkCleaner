@@ -94,8 +94,8 @@ def main():
     st.markdown(
         """
         <div style='text-align: center'>
-            <p>Built with ❤️ using Streamlit and AI</p>
-            <p><a href='https://github.com/linkedlist771/SoraWatermarkCleaner'>GitHub Repository</a></p>
+                        <p>ScodeVN : 0582392345 - Remove Sora Watermark</p>
+
         </div>
         """,
         unsafe_allow_html=True,
